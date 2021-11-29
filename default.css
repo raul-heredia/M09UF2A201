@@ -114,7 +114,7 @@ bottom: 210px;
 letter-spacing: -1px;
 font-size: 7.5em;
 font-weight: 400;
-color: #DF0101;
+color: #f4511e;
 }
 
 #logo p {
@@ -137,7 +137,7 @@ text-decoration: none;
 
 #menu {
 overflow: hidden;
-background: #DF0101;
+background: #f4511e;
 }
 
 #menu ul {
@@ -443,7 +443,7 @@ color: #FFFFFF;
 	display: inline-block;
 	margin-top: 2em;
 	padding: 0em 1em;
-	background: #DF0101;
+	background: #f4511e;
 	letter-spacing: 0.10em;
 	line-height: 3em;
 	text-decoration: none;
